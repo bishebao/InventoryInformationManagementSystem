@@ -1,0 +1,2 @@
+# InventoryInformationManagementSystem
+ Java毕业设计-基于SSM框架的库存信息管理系统
